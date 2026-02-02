@@ -1,4 +1,4 @@
-# trt_project1## Task 2: Research & Configure
+# trt_project1#
 
 ### What I Did
 I researched best practices for guiding AI coding assistants and created a rules file
