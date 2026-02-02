@@ -1,1 +1,1 @@
-# trt_project1
+# connecting to the MCP server
