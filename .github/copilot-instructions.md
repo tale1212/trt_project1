@@ -32,9 +32,3 @@ This project is focused on learning and experimentation with AI coding agents. T
 ## Examples
 - When showing code, provide a short explanation of what it does and why
 - If a pattern is used repeatedly, document it here for future reference
-
-## Updating These Instructions
-- If you discover new project-specific patterns or workflows, update this file and the README.md
-
----
-For more, see the project README.md and https://aka.ms/vscode-instructions-docs
